@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Hossaini1414/LoginForm/static/css/main.1d0843f3.css",
-    "main.js": "/Hossaini1414/LoginForm/static/js/main.5286fe41.js",
-    "static/js/453.0fb5dbf2.chunk.js": "/Hossaini1414/LoginForm/static/js/453.0fb5dbf2.chunk.js",
-    "index.html": "/Hossaini1414/LoginForm/index.html",
-    "main.1d0843f3.css.map": "/Hossaini1414/LoginForm/static/css/main.1d0843f3.css.map",
-    "main.5286fe41.js.map": "/Hossaini1414/LoginForm/static/js/main.5286fe41.js.map",
-    "453.0fb5dbf2.chunk.js.map": "/Hossaini1414/LoginForm/static/js/453.0fb5dbf2.chunk.js.map"
+    "main.css": "/LoginForm/static/css/main.1d0843f3.css",
+    "main.js": "/LoginForm/static/js/main.a8ea53c2.js",
+    "static/js/453.0fb5dbf2.chunk.js": "/LoginForm/static/js/453.0fb5dbf2.chunk.js",
+    "index.html": "/LoginForm/index.html",
+    "main.1d0843f3.css.map": "/LoginForm/static/css/main.1d0843f3.css.map",
+    "main.a8ea53c2.js.map": "/LoginForm/static/js/main.a8ea53c2.js.map",
+    "453.0fb5dbf2.chunk.js.map": "/LoginForm/static/js/453.0fb5dbf2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d0843f3.css",
-    "static/js/main.5286fe41.js"
+    "static/js/main.a8ea53c2.js"
   ]
 }
