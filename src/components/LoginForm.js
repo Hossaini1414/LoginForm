@@ -32,7 +32,7 @@ function Login() {
 
     if (found) {
       setError('');
-      window.location.href = 'https://Hossaini1414.github.io/Team-Profile';
+      window.location.href = 'https://hossaini1414.github.io/Final-ProfileCard';
     } else {
       setError('Incorrect!! please try again');
     }
